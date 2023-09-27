@@ -29,5 +29,6 @@ const {
     const start = new Date().getTime()
     let sent_msg = await message.sendReply('*💘*')
     const end = new Date().getTime()
+    await new Promise(resolve => setTimeout(resolve, 2000));
     await message.edit('*💝*',message.jid,sent_msg.key)
   }));
