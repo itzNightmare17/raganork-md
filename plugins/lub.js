@@ -30,8 +30,6 @@ const {
     await new Promise(resolve => setTimeout(resolve, 1000));
     await message.edit('❤',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('️',message.jid,sent_msg.key)
-    await new Promise(resolve => setTimeout(resolve, 1000));
     await message.edit('🧡',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
     await message.edit('💛',message.jid,sent_msg.key)
@@ -51,16 +49,6 @@ const {
     await message.edit('🤍',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
     await message.edit('🤎',message.jid,sent_msg.key)
-    await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('❤',message.jid,sent_msg.key)
-    await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('‍',message.jid,sent_msg.key)
-    await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('🔥',message.jid,sent_msg.key)
-    await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('❣',message.jid,sent_msg.key)
-    await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('️',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
     await message.edit('💕',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
