@@ -26,8 +26,9 @@ const {
     use: 'utility',
     desc: 'Measures ping'
   }, (async (message, match) => {
-    let sent_msg = await message.client.sendMessage(message.jid, {text:"🤍"})
-    await new Promise(resolve => setTimeout(resolve, 2000));
-    await message.edit('💝',message.jid,sent_msg.key)
+    let sent_msg = await message.client.sendMessage(message.jid, {text:"🩷"})
+    await new Promise(resolve => setTimeout(resolve, 1000));
     await message.edit('❤',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('️',message.jid,sent_msg.key)
   }));
