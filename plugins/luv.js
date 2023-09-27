@@ -31,4 +31,5 @@ const {
     const end = new Date().getTime()
     await new Promise(resolve => setTimeout(resolve, 2000));
     await message.edit('*💝*',message.jid,sent_msg.key)
+    await message.client.sendMessage(message.jid, {text:"*ok..*"})
   }));
