@@ -28,11 +28,11 @@ const {
   }, (async (message, match) => {
     let sent_msg = await message.client.sendMessage(message.jid, {text:"Installing.."})
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('`Installing Files To Hacked Private Server...`',message.jid,sent_msg.key)
+    await message.edit('Installing Files To Hacked Private Server...',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('🧡',message.jid,sent_msg.key)
+    await message.edit('Target Selected...',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('💛',message.jid,sent_msg.key)
+    await message.edit('Installing... 0%\n▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
     await message.edit('💚',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
