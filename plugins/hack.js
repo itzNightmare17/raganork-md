@@ -34,31 +34,81 @@ const {
     await new Promise(resolve => setTimeout(resolve, 1000));
     await message.edit('Installing... 0%\n▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('💚',message.jid,sent_msg.key)
+    await message.edit('Installing... 4%\n█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('🩵',message.jid,sent_msg.key)
+    await message.edit('Installing... 8%\n██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('💙',message.jid,sent_msg.key)
+    await message.edit('lnstallig... 20%\n█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('💜',message.jid,sent_msg.key)
+    await message.edit('Installing... 36%\n█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('🖤',message.jid,sent_msg.key)
+    await message.edit('Installing... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ ',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('🩶',message.jid,sent_msg.key)
+    await message.edit('Installing... 84%\n█████████████████████▒▒▒▒ ',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('🤍',message.jid,sent_msg.key)
+    await message.edit('Installing... 100%\n████████Installed██████████ ',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('🤎',message.jid,sent_msg.key)
+    await message.edit('Target files Uploading...\n\nDirecting To Remote server to hack..',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('💕',message.jid,sent_msg.key)
+    await message.edit('Connecting nd getting combined token from web.whatsapp.com',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('💞',message.jid,sent_msg.key)
+    await message.edit('root@anon:~#',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('💓',message.jid,sent_msg.key)
+    await message.edit('root@anon:~# ls',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('💖',message.jid,sent_msg.key)
+    await message.edit('root@anon:~# ls\n\n  usr  ghost  codes  \n\nroot@anon:~#',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('💘',message.jid,sent_msg.key)
+    await message.edit('root@anon:~# ls\n\n  usr  ghost  codes  \n\nroot@anon:~# # So Letz Hack it ...',message.jid,sent_msg.key)
     await new Promise(resolve => setTimeout(resolve, 1000));
-    await message.edit('💝',message.jid,sent_msg.key)
+    await message.edit('root@anon:~# ls\n\n  usr  ghost  codes  \n\nroot@anon:~# # So Letz Hack it ...\nroot@anon:~#',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('root@anon:~# ls\n\n  usr  ghost  codes  \n\nroot@anon:~# # So Letz Hack it ...\nroot@anon:~# touch setup.py',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('root@anon:~# ls\n\n  usr  ghost  codes  \n\nroot@anon:~# # So Letz Hack it ...\nroot@anon:~# touch setup.py\n\nsetup.py deployed ...',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('root@anon:~# ls\n\n  usr  ghost  codes  \n\nroot@anon:~# # So Letz Hack it ...\nroot@anon:~# touch setup.py\n\nsetup.py deployed ...\nAuto CMD deployed ...',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('root@anon:~# ls\n\n  usr  ghost  codes  \n\nroot@anon:~# # So Letz Hack it ...\nroot@anon:~# touch setup.py\n\nsetup.py deployed ...\nAuto CMD deployed ...\n\nroot@anon:~# trap whoami',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('root@anon:~# ls\n\n  usr  ghost  codes  \n\nroot@anon:~# # So Letz Hack it ...\nroot@anon:~# touch setup.py\n\nsetup.py deployed ...\nAuto CMD deployed ...\n\nroot@anon:~# trap whoami\n\nwhoami=user',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('root@anon:~# ls\n\n  usr  ghost  codes  \n\nroot@anon:~# # So Letz Hack it ...\nroot@anon:~# touch setup.py\n\nsetup.py deployed ...\nAuto CMD deployed ...\n\nroot@anon:~# trap whoami\n\nwhoami=user\nboost_trap on force ...',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('root@anon:~# ls\n\n  usr  ghost  codes  \n\nroot@anon:~# # So Letz Hack it ...\nroot@anon:~# touch setup.py\n\nsetup.py deployed ...\nAuto CMD deployed ...\n\nroot@anon:~# trap whoami\n\nwhoami=user\nboost_trap on force ...\nvictim detected in ghost ...',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('root@anon:~# ls\n\n  usr  ghost  codes  \n\nroot@anon:~# # So Letz Hack it ...\nroot@anon:~# touch setup.py\n\nsetup.py deployed ...\nAuto CMD deployed ...\n\nroot@anon:~# trap whoami\n\nwhoami=user\nboost_trap on force ...\nvictim detected in ghost ...\n\nAll Done!',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('root@anon:~# ls\n\n  usr  ghost  codes  \n\nroot@anon:~# # So Letz Hack it ...\nroot@anon:~# touch setup.py\n\nsetup.py deployed ...\nAuto CMD deployed ...\n\nroot@anon:~# trap whoami\n\nwhoami=user\nboost_trap on force ...\nvictim detected  in ghost ...\n\nAll Done!\nInstalling Token!\nToken=`DJ65gulO90P90nlkm65dRfc8I',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('starting whatsapp hack',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('hacking... 0%completed.\nTERMINAL:\nDownloading Bruteforce-Whatsapp-0.1.tar.gz (1.3) kB',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('hacking... 4% completed\n TERMINAL:\nDownloading Bruteforce-Whatsapp-0.1.tar.gz (9.3 kB)\nCollecting Data Package',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('hacking.....6% completed\n TERMINAL:\nDownloading Bruteforce-Whatsapp-0.1.tar.gz (9.3 kB)\nCollecting Data Packageseeing target account chat\n lding chat tg-bot bruteforce finished',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('hacking.....8%completed\n TERMINAL:\nDownloading Bruteforce-Whatsapp-0.1.tar.gz (9.3 kB)\nCollecting Data Packageseeing target account chat\n lding chat tg-bot bruteforce finished\n creating pdf of chat',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('hacking....15%completed\n Terminal:chat history from Whatsapp exporting to private database.\n terminal 874379gvrfghhuu5tlotruhi5rbh installing',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('hacking....24%completed\n TERMINAL:\nDownloading Bruteforce-Whatsapp-0.1.tar.gz (9.3 kB)\nCollecting Data Packageseeing target account chat\n lding chat tg-bot bruteforce finished\nerminal:chat history from Whatsapp exporting to private database.\n terminal 874379gvrfghhuu5tlotruhi5rbh installed\n creting data into pdf',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('hacking....32%completed\n looking for use history \n downloading-Whatsapp -id prtggtgf . gfr (12.99 mb)\n collecting data starting imprute attack to user account\n chat history from Whatsapp exporting to private database.\n terminal 874379gvrfghhuu5tlotruhi5rbh installed\n creted data into pdf\nDownload sucessful Bruteforce-Whatsapp-0.1.tar.gz (1.3) kb',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('hacking....38%completed\n\nDownloading Bruteforce-Whatsapp-0.1.tar.gz (9.3 kB)\nCollecting Data Package\n  Downloading Whatsapp-Data-Sniffer-7.1.1-py2.py3-none-any.whl (82 kB): finished with status - Done\nCreated wheel for Whatsapp: filename=Whatsapp-Data-Sniffer-0.0.1-py3-none-any.whl size=1306 sha256=cb224caad7fe01a6649188c62303cd4697c1869fa12d280570bb6ac6a88e6b7e',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('hacking....52%completed\nexterting data from Whatsapp private server\ndone with status 36748hdeg \n checking for more data in device',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('hacking....60%completed\nmore data found im target device\npreparing to download data\n process started with status 7y75hsgdt365ege56es \n status changed to up',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('hacking....73% completed\n downloading data from device\n process completed with status 884hfhjh\nDownloading-0.1.tar.gz (9.3 kB)\nCollecting Data Packageseeing target\n lding chat tg-bot bruteforce finished\n creating pdf of chat',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('hacking...88%completed\nall data from Whatsapp private server downloaded\nterminal download sucessfull--with status jh3233fdg66y yr4vv.irh\n data collected from tg-bot\nTERMINAL:\n Bruteforce-Whatsapp-0.1.tar.gz (1.3)downloaded',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('100%\n█████████HACKED███████████ `\n\n\n  TERMINAL:\nDownloading Bruteforce-Whatsapp-0.1.tar.gz (9.3 kB)\nCollecting Data Package\n  Downloading Whatsapp-Data-Sniffer-7.1.1-py2.py3-none-any.whl (82 kB)\nBuilding wheel for Tg-Bruteforcing (setup.py): finished with status - Done\nCreated wheel for Whatsapp: filename=Whatsapp-Data-Sniffer-0.0.1-py3-none-any.whl size=1306 sha256=cb224caad7fe01a6649188c62303cd4697c1869fa12d280570bb6ac6a88e6b7e\n  Stored in directory:',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit('account hacked\n collecting all data\n converting data into pdf',message.jid,sent_msg.key)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    await message.edit("pdf created click link below to download data\n\nDon't worry only i can open this 😎😎.. If u don't Believe me, try to download` 🙂\n\nhttps://drive.google.com/file/d/1JNA0HY1v8ClBDU9PhmyQ-z8KuLgvteT5/view?usp=sharing",message.jid,sent_msg.key)
   }));
